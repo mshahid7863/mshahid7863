@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="4800" height="350" src="https://img.freepik.com/free-vector/data-points-concept-illustration_114360-4070.jpg?size=626&ext=jpg&ga=GA1.1.1279242983.1698668315&semt=ais" height="30" width="40">
+<img align="center" alt="coding" width="4800" height="350" src="https://github.com/Alro10/roadmap-data-scientist/blob/master/ds_o.png" height="30" width="40">
 <h1 align="center">Hi 👋, I'm Mohammed Shahid S</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
@@ -16,7 +16,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  </a> <a href="https://www.pandas.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></p>
+<p align="left"> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  </a> <a href="https://www.pandas.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.numpy.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a> <a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="numpy" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshahid7863&show_icons=true&locale=en&layout=compact" alt="mshahid7863" /></p>
 
