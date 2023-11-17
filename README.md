@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="4800" height="350" src="https://github.com/Alro10/roadmap-data-scientist/blob/master/ds_o.png" height="30" width="40">
+<img align="center" alt="coding" width="4800" height="350" src="[https://github.com/Alro10/roadmap-data-scientist/blob/master/ds_o.png](https://www.porttechnology.org/wp-content/uploads/2019/06/blockchain_expert_profile_240918_1280_800_84_s_c1.jpg)" height="30" width="40">
 <h1 align="center">Hi 👋, I'm Mohammed Shahid S</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
