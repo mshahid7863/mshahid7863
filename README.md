@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="4800" height="350" src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_585776828_390554.jpg" height="30" width="40">
+<img align="center" alt="coding" width="4800" height="350" src="https://www.bgsu.edu/content/dam/BGSU/academics/computer-science/AdobeStock-294794307.jpeg" height="30" width="40">
 <h1 align="center">Hi 👋, I'm Mohammed Shahid S</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
