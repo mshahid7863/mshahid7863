@@ -27,6 +27,11 @@
  </a> <a href="https://www.Keras.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" alt="numpy" width="40" height="40"/>  
 </a> <a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="numpy" width="40" height="40"/>
 
+</a> <a href="https://www.Streamlit.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="numpy" width="40" height="40"/>
+</a> <a href="https://www.VisualStudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="numpy" width="40" height="40"/>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshahid7863&show_icons=true&locale=en&layout=compact" alt="mshahid7863" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshahid7863&show_icons=true&locale=en" alt="mshahid7863" /></p>
